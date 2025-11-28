@@ -4,9 +4,12 @@ __pycache__/
 build/
 dist/
 wheels/
+temp_auto_push.bat
 *.egg-info
 .env
 
 # Virtual environments
 .venv
 .keystore.json
+.gitignore
+temp_interactive_push.bat
